@@ -1,0 +1,2 @@
+#%%
+OUTPUTS_PATH='outputs\\'
